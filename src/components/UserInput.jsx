@@ -18,7 +18,7 @@ export default function UserInput() {
         </p>
         <p>
           <label for="fname">Duration</label>
-          <input type="number" name="fname" required min="1" />
+          <input type="number" name="fname" required min="0" />
         </p>
       </div>
     </div>
